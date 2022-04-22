@@ -1,3 +1,7 @@
+/*example of:
+[]continue vs break
+[]label statements*/
+
 const names = ['luis','javi','paco','emi']
 const lasts = ['mora','test','etc']
 
